@@ -8,7 +8,6 @@
     "start": "gulp",
     "build": "gulp build"
   },
-
   "author": "php",
   "license": "ISC",
   "dependencies": {
@@ -30,5 +29,13 @@
     "postcss": "^5.2.4",
     "postcss-cli": "^2.6.0",
     "rimraf": "^2.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivchenkodima/git_second.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ivchenkodima/git_second/issues"
+  },
+  "homepage": "https://github.com/ivchenkodima/git_second#readme"
 }
